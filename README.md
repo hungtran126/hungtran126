@@ -9,6 +9,7 @@
 </div>
 <div align="center">👤 Name: Tran Gia Hung</div>
 <div align="center">👨🏻‍💻 Role: Front-End Developer</div>
+<div align="center">🔥 In my free time, I usually listen to music 💆🏻‍♂️, clean the performance of code, research news about programming developers also learn more languages.</div>
 <br />
 
 # Languages and Tools
